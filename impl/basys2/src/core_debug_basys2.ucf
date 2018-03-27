@@ -1,0 +1,35 @@
+NET "clk" LOC = B8;
+NET "rst" LOC = G12;
+NET "clk_rst" LOC = C11;
+
+NET "sw_array[0]" LOC = P11;
+NET "sw_array[1]" LOC = L3;
+NET "sw_array[2]" LOC = K3;
+NET "sw_array[3]" LOC = B4;
+NET "sw_array[4]" LOC = G3;
+NET "sw_array[5]" LOC = F3;
+NET "sw_array[6]" LOC = E2;
+NET "sw_array[7]" LOC = N3;
+
+NET "led_array[0]" LOC = M5;
+NET "led_array[1]" LOC = M11;
+NET "led_array[2]" LOC = P7;
+NET "led_array[3]" LOC = P6;
+NET "led_array[4]" LOC = N5;
+NET "led_array[5]" LOC = N4;
+NET "led_array[6]" LOC = P4;
+NET "led_array[7]" LOC = G1;
+
+NET "seg_sel[0]" LOC = J12;
+NET "seg_sel[1]" LOC = M13;
+NET "seg_sel[2]" LOC = K14;
+NET "seg_sel[3]" LOC = F12;
+
+NET "seg_data[0]" LOC = N13;
+NET "seg_data[1]" LOC = M12;
+NET "seg_data[2]" LOC = L13;
+NET "seg_data[3]" LOC = P12;
+NET "seg_data[4]" LOC = N11;
+NET "seg_data[5]" LOC = N14;
+NET "seg_data[6]" LOC = H12;
+NET "seg_data[7]" LOC = L14;
