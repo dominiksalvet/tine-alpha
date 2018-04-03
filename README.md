@@ -4,4 +4,4 @@ Tine Alpha is an 8-bit MISC processor architecture with implemented 4-stage pipe
 
 ## License
 
-This project is licensed under the MIT License, see the [`LICENSE.txt`](LICENSE.txt) file for details.
+This project is licensed under the MIT License, see the [*LICENSE.txt*](LICENSE.txt) file for details.
