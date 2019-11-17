@@ -1,3 +1,7 @@
+**This repository is going to be [remastered](https://github.com/users/dominiksalvet/projects/2#card-26446302) sometime in the future.**
+
+---
+
 # Tine Alpha Processor
 
 Tine Alpha is an 8-bit MISC processor architecture with implemented 4-stage pipelining.
