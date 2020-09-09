@@ -4,6 +4,8 @@
 
 # Tine Alpha Processor
 
+![Tine Alpha pipeline](img/pipeline.png)
+
 Tine Alpha is an 8-bit MISC processor architecture with implemented 4-stage pipelining.
 
 ## License
