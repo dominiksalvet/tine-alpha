@@ -1,0 +1,17 @@
+-- == Call procedure ==
+-- calling procedure to increment variable in memory pointed by R3
+-- == Call procedure ==
+
+0 => "01100000",	-- LI 0
+1 => "00011111",	-- CPR R3
+2 => "01101001",	-- LI 9
+3 => "00010111",	-- STA R3
+4 => "01000010",	-- JWL +2 (6)
+5 => "01011011",	-- JMP -5 (0)
+
+6 => "00011100",	-- CPR R0
+7 => "00010011",	-- LDA R3
+8 => "11110001",	-- ADD 1
+9 => "00010111",	-- STA R3
+10 => "00011000",	-- CPA R0
+11 => "00001111",	-- JMPA
