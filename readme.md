@@ -11,6 +11,10 @@ Tine Alpha is an 8-bit MISC (Minimal Instruction Set Computer) processor archite
 * Accumulator-based design
 * Conditional skip instructions
 
+## Machine Code
+
+If you are curious how the machine code of Tine Alpha looks like, browse the [collection of such programs](sw).
+
 ## Useful Resources
 
 * [support.md](support.md) – questions, answers, help
