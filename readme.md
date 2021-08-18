@@ -1,6 +1,6 @@
 # Tine Alpha
 
-![Tine Alpha pipeline](img/pipeline.png)
+![Tine Alpha pipeline](doc/img/pipeline.png)
 
 > 8-bit MISC processor with pipelining.
 
