@@ -17,13 +17,17 @@ If you are curious how the machine code of Tine Alpha looks like, browse the [co
 
 ## Original Plan
 
-The original intention was to design and release also the following Tine processor.
+The original intention was to design and release also the following Tine processors.
 
 ### Tine Beta
 
 * Remake to five-stage pipelining
 * Optimized critical paths
 * Cache included
+
+### Tine Gamma
+
+* Asynchronous implementation of Tine Beta
 
 ## Useful Resources
 
