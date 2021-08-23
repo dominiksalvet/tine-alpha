@@ -21,7 +21,7 @@ The original intention was to design and release also the following Tine process
 
 ### Tine Beta
 
-* Five-stage pipelining
+* Remake to five-stage pipelining
 * Optimized critical paths
 * Cache included
 
