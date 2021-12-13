@@ -2,7 +2,7 @@
 
 ![Tine Alpha pipeline](doc/img/pipeline.png)
 
-Tine Alpha is an 8-bit MISC (Minimal Instruction Set Computer) processor architecture with a 4-stage pipelining. Initiated in 2016 as a prototype processor with pipelining for the Limen processor series. It has the following significant properties:
+Tine Alpha is an 8-bit MISC (Minimal Instruction Set Computer) processor architecture with a 4-stage pipelining. Initiated in 2016 as a prototype processor with pipelining for the [Limen processor series](https://github.com/dominiksalvet/limen). It has the following significant properties:
 
 * Harvard memory architecture
 * May address up to 256 B of each instructions and data
